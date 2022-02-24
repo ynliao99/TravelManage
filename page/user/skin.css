@@ -1,0 +1,21 @@
+.left {
+     padding-top: 70px;
+    padding-left: 70px;
+  padding-bottom: 20px;
+width: 200px;
+    font-family:Microsoft YaHei;
+}
+
+body {
+  padding-top: 60px;
+  font-family:Microsoft YaHei;
+}
+body h1,h2,button{
+font-family:Microsoft YaHei;
+}
+
+.form-autocookie {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
