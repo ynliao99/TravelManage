@@ -1,0 +1,1 @@
+ <p>&copy; 2010-2017 Lyndon's Laboratory （翰墨远逸）. | Special thank to Howard Lau. | <a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">粤ICP备14061580号</a></p>
